@@ -1,0 +1,7 @@
+VETORES:
+
+ 
+	Fazer a bola ricochetear na plataforma;
+	Aleatorizar a direcao e o sentido da bola (tres variacoes de inclinacao);
+	contar ponto;
+	Fazer hud;
